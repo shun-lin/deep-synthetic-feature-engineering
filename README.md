@@ -40,4 +40,9 @@ Data-X is a framework designed at UC Berkeley for learning and applying AI, data
 
 ## Future Enhancement
 
+## References
+### Fall 2018 Team
+[Github Repository](https://github.com/sudarshanGopal98/data-x-paradigm)
+
+[Poster](https://data-x.blog/projects/paradigm-team-2/)
 
