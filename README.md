@@ -47,6 +47,7 @@ Given this information, we can **recommend articles** to Paradigm users that are
 In the future, we can also **analyze news** in order to detect fake or misleading articles related to cryptocurrency.
 
 ![Synthetic Feature Engineering](images/Synthetic_Feature_Engineering.png)
+
 Figure 1: Project Overview
 
 ## User Perspectives
@@ -54,6 +55,7 @@ Figure 1: Project Overview
 The end goal of this project is to present a list of ranked recommended articles that our machine learning model predicts to have high impact on cryptocurrency in the near future. 
 
 ![Potential UI](images/potential_UI.png)
+
 Figure 2: Potential UI for recommendation
 
 In order to create the best user experience for what they need their purposes for, we will prioritize **accuracy of prediction**. This is to generate the best possible model.
@@ -83,6 +85,7 @@ Finally, because machine learning models can be very computationally intensive, 
 ## Architecture
 
 ![Architecture](images/Architecture.png)
+
 Figure 3: Architecture of our model
 
 ## Future Enhancement
